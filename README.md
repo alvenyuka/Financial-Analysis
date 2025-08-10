@@ -1,4 +1,5 @@
 In this project, I created a live Excel workbook with dynamic formulas designed to track and analyze a personal stock portfolio.
+
 Dashboard Sheet
 Purpose: Shows a  detailed summary of the key metrics 
 Features:
